@@ -106,4 +106,3 @@ sudo make uninstall
 
 ## Acknowledgments
 - Inspired by the Unix `tree` command.
-- Special thanks to the open-source community for guidance.
